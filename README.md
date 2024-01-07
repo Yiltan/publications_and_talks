@@ -2,6 +2,11 @@
 A public copy of things I've worked on.
 
 ## Peer-Reviewed Conference Articles
+**Y. H. Temuçin**, S. Levy, W. Schonbein, R. Grant and A. Afsahi, "A Dynamic Network-Native MPI Partitioned Aggregation Over InfiniBand Verbs," in *2023 IEEE International Conference on Cluster Computing (CLUSTER)*, Santa Fe, NM, USA, 2023 pp. 259-270.
+doi: 10.1109/CLUSTER52292.2023.00029
+
+[\[paper\]](./2023_Cluster/2023_Cluster.pdf) [\[bibtex\]](./2023_Cluster/2023_Cluster.bib)
+
 P. Alizadeh, A. Sojoodi, **Y. H. Temuçin**, and A Afsahi, "Efficient Process Arrival Pattern Aware Collective Communication for Deep Learning", in *Proceedings of the 29th European MPI Users' Group Meeting (EuroMPI/USA'22)*, 68–78.  doi: 10.1145/3555819.3555857
 
 [\[paper\]](./2022_EuroMPI/2022_EuroMPI.pdf) [\[bibtex\]](./2022_EuroMPI/2022_EuroMPI.bib)
