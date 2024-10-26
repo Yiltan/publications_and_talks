@@ -2,7 +2,11 @@
 A public copy of things I've worked on.
 
 ## Peer-Reviewed Conference Articles
-**Y. H. Temuçin**, S. Levy, W. Schonbein, R. Grant and A. Afsahi, "A Dynamic Network-Native MPI Partitioned Aggregation Over InfiniBand Verbs," in *2023 IEEE International Conference on Cluster Computing (CLUSTER)*, Santa Fe, NM, USA, 2023 pp. 259-270.
+**Y. H. Temuçin**, M. Gazimirsaeed, R. E. Grant and A. Afsahi, in *ISC High Performance 2024 Research Paper Proceedings (39th International Conference)*, Hamburg, Germany, 2024 pp. 1-12.  doi: 10.23919/ISC.2024.10528923
+
+[\[paper\]](./2024_ISC/2024_ISC.pdf) [\[bibtex\]](./2024_ISC/2024_ISC.bib)
+
+**Y. H. Temuçin**, S. Levy, W. Schonbein, R. Grant and A. Afsahi, "A Dynamic Network-Native MPI Partitioned Aggregation Over InfiniBand Verbs", in *2023 IEEE International Conference on Cluster Computing (CLUSTER)*, Santa Fe, NM, USA, 2023 pp. 259-270.
 doi: 10.1109/CLUSTER52292.2023.00029
 
 [\[paper\]](./2023_Cluster/2023_Cluster.pdf) [\[bibtex\]](./2023_Cluster/2023_Cluster.bib)
@@ -15,7 +19,7 @@ P. Alizadeh, A. Sojoodi, **Y. H. Temuçin**, and A Afsahi, "Efficient Process Ar
 
 [\[paper\]](./2022_ICPP/2022_ICPP.pdf) [\[slides\]](./2022_ICPP/2022_ICPP_slides.pdf) [\[bibtex\]](./2022_ICPP/2022_ICPP.bib) [\[code\]](https://github.com/Yiltan/MPI-Partitioned-Microbenchmarks)
 
-**Y. H. Temuçin**, A. Sojoodi, P. Alizadeh and A. Afsahi, "Efficient Multi-Path NVLink/PCIe-Aware UCX based Collective Communication for Deep Learning," *2021 IEEE Symposium on High-Performance Interconnects (HOTI)*, Santa Clara, CA, USA, 2021, pp. 25-34, doi: 10.1109/HOTI52880.2021.00018
+**Y. H. Temuçin**, A. Sojoodi, P. Alizadeh and A. Afsahi, "Efficient Multi-Path NVLink/PCIe-Aware UCX based Collective Communication for Deep Learning", *2021 IEEE Symposium on High-Performance Interconnects (HOTI)*, Santa Clara, CA, USA, 2021, pp. 25-34, doi: 10.1109/HOTI52880.2021.00018
 
 [\[paper\]](./2021_HotI/2021_HotI.pdf) [\[slides\]](./2021_HotI/2021_HotI_slides.pdf) [\[bibtex\]](./2021_HotI/2021_HotI.bib)
 
