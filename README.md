@@ -29,9 +29,9 @@ P. Alizadeh, A. Sojoodi, **Y. H. Temuçin**, and A Afsahi, "Efficient Process Ar
 
 [\[paper\]](./2024_ExaMPI/2024_ExaMPI.pdf) [\[slides\]](./2024_ExaMPI/2024_ExaMPI_slides.pdf)
 
-A. Sojoodi, **Y. H. Temuçin**, and A. Afsahi, "Enhancing Intra-node GPU-to-GPU Performance in MPI+UCX through Multi-Path Communication", *3rd International Workshop on Extreme Heterogeneity Solutions (ExHET)* 2024, Edinburgh, UK, Mar 3, 2024. © ACM Best Paper Award
+A. Sojoodi, **Y. H. Temuçin**, and A. Afsahi, "Enhancing Intra-node GPU-to-GPU Performance in MPI+UCX through Multi-Path Communication", *3rd International Workshop on Extreme Heterogeneity Solutions (ExHET)* 2024, Edinburgh, UK, Mar 3, 2024. ACM (Best Paper Award)
 
-[\[paper\]](./2024_ExHET/2024_ExHET.pdf) [\[bib\]](./2024_ExHET/2024_ExHET.bib) 
+[\[paper\]](./2024_ExHET/2024_ExHET.pdf) [\[bib\]](./2024_ExHET/2024_ExHET.bib)
 
 ## Peer-Reviewed Magazine Articles
 **Y. H. Temuçin**, A. Sojoodi, P. Alizadeh, B. Kitor and A. Afsahi, "Accelerating Deep Learning Using Interconnect-Aware UCX Communication for MPI Collectives", in *IEEE Micro*, vol. 42, no. 2, pp. 68-76, 1 March-April 2022, doi: 10.1109/MM.2022.3148670.
