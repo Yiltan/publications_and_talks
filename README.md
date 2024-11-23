@@ -2,7 +2,10 @@
 A public copy of things I've worked on.
 
 ## Peer-Reviewed Conference Articles
-**Y. H. Temuçin**, M. Gazimirsaeed, R. E. Grant and A. Afsahi, in *ISC High Performance 2024 Research Paper Proceedings (39th International Conference)*, Hamburg, Germany, 2024 pp. 1-12.  doi: 10.23919/ISC.2024.10528923
+**Y. H. Temuçin**, W. Schonbein, S. Levy, A. Sojoodi, R. Grant and A. Afsahi, "Design and Implementation of MPI-Native GPU-Initiated MPI Partitioned Communication" in *12th Workshop on Extreme Scale MPI (ExaMPI)*, Atlanta, GA, USA, Nov. 17, 2024.
+[\[paper\]](./2024_ExaMPI/2024_ExaMPI.pdf) [\[slides\]](./2024_ExaMPI/2024_ExaMPI_slides.bib)
+
+**Y. H. Temuçin**, M. Gazimirsaeed, R. E. Grant and A. Afsahi, "ROCm-Aware Leader-based Designs for MPI Neighbourhood Collectives" in *ISC High Performance 2024 Research Paper Proceedings (39th International Conference)*, Hamburg, Germany, 2024 pp. 1-12.  doi: 10.23919/ISC.2024.10528923
 
 [\[paper\]](./2024_ISC/2024_ISC.pdf) [\[bibtex\]](./2024_ISC/2024_ISC.bib)
 
